@@ -17,7 +17,7 @@ News Research Tool  is a user-friendly news research tool designed for effortles
 1. Clone this repository to your local machine using:
 
     ```bash
-    git clone https://github.com/codebasics/langchain.git
+    git clone https://github.com/kamtendra/LangChain_News_Research_Too.git
     ```
 
 2. Install the required dependencies using pip:
